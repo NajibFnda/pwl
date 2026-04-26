@@ -137,7 +137,7 @@
         // 1. SIMULASI DATABASE MENGGUNAKAN ARRAY
         // ========================================================
         const dummyDatabase = [
-            { email: "najib@gmail.com", status: "aman" },
+            { email: "aman@gmail.com", status: "aman" },
             { email: "bocor@gmail.com", status: "tidak_aman" }
         ];
 
