@@ -39,7 +39,7 @@
 
     <div id="result">
         <div class="main-container">
-            <div id="part-analysis">
+            <div id="analysis">
                 <div class="section-title">Account Analysis</div>
                 <div class="grid-3">
                     <div class="card">
@@ -209,7 +209,7 @@
 
         // Scroll otomatis meluncur ke bawah
         setTimeout(() => {
-            document.getElementById('part-analysis').scrollIntoView({ 
+            document.getElementById('analysis').scrollIntoView({ 
                 behavior: 'smooth', 
                 block: 'start' 
             });
